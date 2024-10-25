@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">JournalApp</string>
+    <string name="welcome_to_the_journal">Welcome to the Journal</string>
+    <string name="email">email:</string>
+    <string name="sign_in">sign in</string>
+    <string name="password">password:</string>
+    <string name="create_account">create account</string>
+    <string name="username">username</string>
+    <string name="no_posts">No Posts</string>
 </resources>
