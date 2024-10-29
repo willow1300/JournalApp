@@ -61,7 +61,11 @@ dependencies {
     // When using the BoM, don't specify versions in Firebase dependencies
     implementation("com.google.firebase:firebase-analytics")
 
+    // Declare the dependency for the Cloud Firestore library
+    implementation("com.google.firebase:firebase-firestore")
     //Implementing the firebase-auth dependency
     implementation("com.google.firebase:firebase-auth")
+    // Add the dependency for the Cloud Storage library
+    implementation("com.google.firebase:firebase-storage")
 
 }
